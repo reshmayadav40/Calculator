@@ -42,14 +42,14 @@ button{
     height: 60px;
     margin: 10px;
     border-radius: 50%;
-    background: transparent;
+    background: black;
     color: #ffffff;
     font-size: 20px;
     box-shadow: -8px -7px 15px rgba(255, 255, 255,0.2);
     cursor: pointer;
 }
 .equalBtn{
-    background-color: #fb7b14;
+    background-color: black;
 }
 .operator{
     color: #6dee0a;
